@@ -1,0 +1,6 @@
+/target/
+/node_modules
+/sarcoweb-angular/node_modules
+/dist
+/sarcoweb-angular/dist
+/src/main/webapp/sarco-web
